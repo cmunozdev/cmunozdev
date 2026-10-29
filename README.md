@@ -23,6 +23,10 @@ const cesar = {
 };
 ```
 
+## Experiencia profesional
+
+Trabajo en una empresa de software donde contamos con **SIA Seguros**, un sistema para el sector asegurador. Compagino mi trabajo profesional con el desarrollo de mis propios productos digitales.
+
 ## Proyectos personales
 
 | Proyecto | Qué puedes encontrar |
