@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">César Muñoz — Full Stack Developer</title><desc id="desc">Ideas que se convierten en código. Desarrollo web, aplicaciones Android y productos propios.</desc>
+<rect width="1200" height="360" rx="12" fill="#111310"/><path d="M0 48h1200M830 48v312" stroke="#30342c"/>
+<g fill="#9a9e91" font-family="monospace" font-size="13"><text x="32" y="30">~/cmunozdev</text><text x="1043" y="30">portfolio.js</text></g>
+<circle cx="34" cy="88" r="4" fill="#c4f56a"/><text x="49" y="93" font-family="monospace" font-size="12" letter-spacing="2" fill="#c4f56a">FULL STACK DEVELOPER</text>
+<text x="30" y="164" font-family="monospace" font-size="53" font-weight="bold" fill="#f0f0e8">César Muñoz<tspan fill="#c4f56a">_</tspan></text>
+<text x="33" y="213" font-family="monospace" font-size="22" fill="#b9c1ae">Ideas que se convierten en código.</text>
+<text x="33" y="297" font-family="monospace" font-size="13" fill="#9a9e91">WEB DEVELOPMENT <tspan fill="#c4f56a"> + </tspan> ANDROID APPS <tspan fill="#c4f56a"> + </tspan> SELF-HOSTED</text>
+<g font-family="monospace" font-size="17"><text x="873" y="123" fill="#c3a6e8">const <tspan fill="#8dbee5">developer</tspan><tspan fill="#f0f0e8"> = {</tspan></text><text x="890" y="160" fill="#f0f0e8">build: <tspan fill="#c4f56a">"products"</tspan>,</text><text x="890" y="197" fill="#f0f0e8">learn: <tspan fill="#c3a6e8">true</tspan>,</text><text x="890" y="234" fill="#f0f0e8">ship: <tspan fill="#c3a6e8">true</tspan></text><text x="873" y="271" fill="#f0f0e8">};</text></g>
+</svg>

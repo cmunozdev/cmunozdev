@@ -1,16 +1,53 @@
-<h1 align="center">Hi 👋, I'm Cesar Daniel Muñoz</h1>
-<h3 align="center">A Full-Stack Developer</h3>
-
-- 👨‍💻 All of my projects are available at [https://cesarmunoz.dev/](https://cesarmunoz.dev/)
-
-- 📫 How to reach me **cesardanielmunoz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cesarmunoz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cesarmunoz06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cesar-daniel-munoz-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar-daniel-munoz-dev" height="30" width="40" /></a>
-<a href="https://instagram.com/cesarmunoz06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cesarmunoz06" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/header.svg" alt="César Muñoz — Full Stack Developer. Ideas que se convierten en código." width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://cesarmunoz.dev">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/cesar-daniel-munoz-dev/">LinkedIn</a> ·
+  <a href="https://play.google.com/store/apps/developer?id=CDM+DEV&hl=es">Google Play</a> ·
+  <a href="mailto:cesardanielmunoz@gmail.com">Contacto</a>
+</p>
+
+## Hola, soy César 👋
+
+Soy **César Daniel Muñoz**, desarrollador full stack y creador de productos propios. Trabajo en desarrollo web, aplicaciones Android e infraestructura para llevar las ideas desde el código hasta su puesta en marcha.
+
+Mis proyectos conectan plataformas de contenido, streaming y herramientas móviles. También administro mi propio VPS con Docker y Dokploy.
+
+```js
+const cesar = {
+  github: "@cmunozdev",
+  focus: ["Web development", "Android apps", "Personal products"],
+  approach: "Pensar el producto. Construir. Seguir mejorando."
+};
+```
+
+## Proyectos personales
+
+| Proyecto | Qué puedes encontrar |
+| --- | --- |
+| [Emisoras Dominicanas](https://emisorasdominicanas.online/) | Radio de República Dominicana organizada por emisoras, géneros y ciudades. |
+| [Canales Dominicanos](https://canalesdominicanos.live/) | Catálogo de televisión y radio dominicana, con web y aplicación Android. |
+| [Emisoras Colombianas](https://emisorascolombianas.online/) | Directorio de radio colombiana con búsqueda y exploración por ciudad y género. |
+| [Radios de Chile](https://radiosdechile.online/) | Plataforma de radio online desarrollada con Astro y Preact. |
+| [CDM DEV en Google Play](https://play.google.com/store/apps/developer?id=CDM+DEV&hl=es) | Mis aplicaciones publicadas para Android. |
+
+También trabajo en **EnviaSIM**, una adaptación de una solución open source que conecta teléfonos Android con servicios de SMS e infraestructura propia.
+
+## Tecnologías y herramientas
+
+| Área | Herramientas |
+| --- | --- |
+| Frontend | JavaScript · TypeScript · React · Astro · Tailwind CSS |
+| Backend | PHP · Laravel · Python · MySQL |
+| Mobile | Flutter · Dart · Android |
+| Infraestructura | Docker · Linux · Dokploy · Git |
+
+## Conversemos
+
+¿Tienes una idea o quieres conocer cómo está construido alguno de mis proyectos?
+
+**[cesardanielmunoz@gmail.com](mailto:cesardanielmunoz@gmail.com)**
+
+[LinkedIn](https://www.linkedin.com/in/cesar-daniel-munoz-dev/) · [X](https://x.com/cesarmunoz06) · [Instagram](https://www.instagram.com/cesarmunoz06)
