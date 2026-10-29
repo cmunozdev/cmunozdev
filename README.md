@@ -13,7 +13,7 @@
 
 Soy **César Daniel Muñoz**, desarrollador full stack y creador de productos propios. Trabajo en desarrollo web, aplicaciones Android e infraestructura para llevar las ideas desde el código hasta su puesta en marcha.
 
-Mis proyectos conectan plataformas de contenido, streaming y herramientas móviles. También administro mi propio VPS con Docker y Dokploy.
+Mis proyectos conectan plataformas de contenido, streaming y herramientas móviles. También trabajo con **n8n** para automatizar flujos de trabajo y conectar herramientas, y administro mi propio VPS con Docker y Dokploy.
 
 ```js
 const cesar = {
@@ -27,6 +27,7 @@ const cesar = {
 
 | Proyecto | Qué puedes encontrar |
 | --- | --- |
+| **[Calculadora Alicia](https://play.google.com/store/apps/details?id=calculadora.de.alicia.com&hl=es)** | **Mi app destacada:** calculadora educativa con procedimiento y cálculos sin conexión. Desarrollada con Ionic y Angular para Android. |
 | [Emisoras Dominicanas](https://emisorasdominicanas.online/) | Radio de República Dominicana organizada por emisoras, géneros y ciudades. |
 | [Canales Dominicanos](https://canalesdominicanos.live/) | Catálogo de televisión y radio dominicana, con web y aplicación Android. |
 | [Emisoras Colombianas](https://emisorascolombianas.online/) | Directorio de radio colombiana con búsqueda y exploración por ciudad y género. |
@@ -35,13 +36,21 @@ const cesar = {
 
 También trabajo en **EnviaSIM**, una adaptación de una solución open source que conecta teléfonos Android con servicios de SMS e infraestructura propia.
 
+## Cómo puedo ayudarte
+
+- Desarrollo de aplicaciones web y móviles a medida.
+- Automatización de procesos e integración de herramientas con n8n.
+- Instalación, configuración y adaptación de software open source.
+- Despliegue de servicios con Docker y Dokploy en un VPS.
+
 ## Tecnologías y herramientas
 
 | Área | Herramientas |
 | --- | --- |
 | Frontend | JavaScript · TypeScript · React · Astro · Tailwind CSS |
 | Backend | PHP · Laravel · Python · MySQL |
-| Mobile | Flutter · Dart · Android |
+| Mobile | Flutter · Dart · Ionic · Angular · Android |
+| Automatización | n8n · Flujos de trabajo · Integración de herramientas |
 | Infraestructura | Docker · Linux · Dokploy · Git |
 
 ## Conversemos
