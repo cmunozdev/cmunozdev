@@ -26,7 +26,7 @@ const cesar = {
 
 ## Experiencia profesional
 
-Desde 2016 soy **Senior Software Developer** en **Patridge Consulting**, donde contamos con **SIA Seguros**, un sistema para el sector asegurador. Compagino mi trabajo profesional con el desarrollo de mis propios productos digitales.
+Desde 2016 soy **Senior Software Developer** en **Patridge Consulting**, donde contamos con **SIASeguros**, un sistema para el sector asegurador. Compagino mi trabajo profesional con el desarrollo de mis propios productos digitales.
 
 ## Desarrollo con IA
 
@@ -43,7 +43,7 @@ Uso herramientas de programación con IA como Claude Code y Codex, integro model
 | [Radios de Chile](https://radiosdechile.online/) | Plataforma de radio online desarrollada con Astro y Preact. |
 | [CDM DEV en Google Play](https://play.google.com/store/apps/developer?id=CDM+DEV&hl=es) | Mis aplicaciones publicadas para Android. |
 
-También trabajo en **[EnviaSIM](https://enviasim.com/)**, una adaptación de una solución open source que conecta teléfonos Android con servicios de SMS e infraestructura propia.
+También trabajo en **[EnviaSIM](https://enviasim.com/)**, que convierte teléfonos Android con su propia SIM en una pasarela de SMS para empresas.
 
 ## Cómo puedo ayudarte
 
