@@ -7,7 +7,7 @@
   <a href="https://cesarmunoz.dev/en/">English</a> ·
   <a href="https://www.linkedin.com/in/cesar-daniel-munoz-dev/">LinkedIn</a> ·
   <a href="https://play.google.com/store/apps/developer?id=CDM+DEV&hl=es">Google Play</a> ·
-  <a href="mailto:cesardanielmunoz@gmail.com">Contacto</a>
+  <a href="mailto:hola@cesarmunoz.dev">Contacto</a>
 </p>
 
 ## Hola, soy César 👋
@@ -73,6 +73,6 @@ También trabajo en **[EnviaSIM](https://enviasim.com/)**, una adaptación de un
 
 ¿Tienes una idea o quieres conocer cómo está construido alguno de mis proyectos?
 
-**[cesardanielmunoz@gmail.com](mailto:cesardanielmunoz@gmail.com)**
+**[hola@cesarmunoz.dev](mailto:hola@cesarmunoz.dev)**
 
 [LinkedIn](https://www.linkedin.com/in/cesar-daniel-munoz-dev/) · [X](https://x.com/cesarmunoz06) · [Instagram](https://www.instagram.com/cesarmunoz06)
